@@ -1,0 +1,9 @@
+LANE = 5  # Rows
+TILE = 9  # Column || CONSTANT, will not change
+SLOT_AVAIL = 1  # All Slot
+WIDTH = 700  # Window Width || CONSTANT, will not change
+HEIGHT = 500  # Window Height || CONSTANT, will not change
+FRAME = 60  # Frame per Second
+FLAG_DESTROYER = False  # if True Flag Rules will trigger only once
+LEVEL_ENERGY_VALUE = 50
+LEVEL_ALL_ENERGY = 50
